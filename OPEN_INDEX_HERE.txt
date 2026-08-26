@@ -1,0 +1,1 @@
+Para visualização direta, abra index.html na raiz desta pasta.
