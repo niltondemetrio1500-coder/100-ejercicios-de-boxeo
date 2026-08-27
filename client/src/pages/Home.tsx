@@ -217,7 +217,7 @@ export default function Home() {
               <div className="bonus-copy"><div className="bonus-title"><ChartArea size={20} /><h3>Variaciones de Ejercicios</h3></div><p>Aprende diferentes formas de adaptar cada rutina según tu nivel, condición física, espacio disponible y objetivo.</p><strong>AHORRA $27</strong></div>
             </article>
           </div>
-          <div className="bonus-value-art"><img src="/assets/bonus-value-141-reference.png" alt="Valor total de los bonos: $141. Gratis hoy, incluido automáticamente en el plan Élite" loading="lazy" decoding="async" width="936" height="355" /></div>
+          <div className="bonus-value-art"><img src="/assets/bonus-value-elite-mobile.webp" alt="Valor total de los bonos: $141. Gratis hoy, incluido automáticamente en el plan Élite" loading="lazy" decoding="async" width="1600" height="900" /></div>
           <a href="#oferta" className="button button-green">GARANTIZAR AHORA MISMO</a>
         </section>
 
