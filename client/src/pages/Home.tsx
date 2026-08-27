@@ -57,11 +57,12 @@ const proofImages = [
     "/assets/proof-03-es-lite.webp",
     "/assets/proof-04-es-lite.webp",
 ];
+// Ordem visual da galeria: os arquivos exportados trazem as capas 01, 02, 03 e 03; a sequência foi normalizada para não saltar de número no mobile.
 const galleryItems = [
   { id: "base", title: "01 / POSICIÓN Y BASE", eyebrow: "FUNDAMENTOS", image: galleryImages[0] },
-  { id: "jab", title: "02 / JAB DOBLE", eyebrow: "ATAQUE", image: galleryImages[1] },
+  { id: "guarda", title: "02 / GUARDIA CORRECTA", eyebrow: "DEFENSA", image: galleryImages[3] },
+  { id: "jab", title: "03 / JAB DOBLE", eyebrow: "ATAQUE", image: galleryImages[1] },
   { id: "deslocamento", title: "03 / DESPLAZAMIENTO", eyebrow: "MOVIMIENTO", image: galleryImages[2] },
-  { id: "guarda", title: "04 / GUARDIA CORRECTA", eyebrow: "DEFENSA", image: galleryImages[3] },
   { id: "cruzado", title: "05 / CRUZADO", eyebrow: "COMBINACIONES", image: galleryImages[4] },
   { id: "uppercut", title: "06 / UPPERCUT", eyebrow: "FUNDAMENTOS", image: galleryImages[5] },
 ];
